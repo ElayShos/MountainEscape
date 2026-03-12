@@ -13,6 +13,13 @@ These scripts demonstrate core gameplay systems and programming patterns used in
 - Line-of-sight detection using raycasting
 - Coroutine-based attack logic
 
+### Minion AI
+- Finite State Machine controlling worker behavior
+- Dynamic mine selection and resource collection
+- Navigation using Unity NavMesh
+- Delivery system interacting with other gameplay systems
+- Idle and repathing logic when paths become blocked
+
 ### Stair Construction System
 - Grid-based placement system
 - Coroutine-driven build animations
